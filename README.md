@@ -8,7 +8,7 @@ Everything competitive shooting related lives at
 
 ## Projects
 
-<img src="assets/scoretracker.png" width="80" align="left">
+<img src="assets/scoretracker.png" width="64" align="left">
 
 [**Steel Challenge Score Tracker**](https://gunzncoffee.com/scoretracker/)
 
@@ -20,6 +20,21 @@ any shooter across every division and stage, analyze performance and progress
 toward the next classification, and see how shooters rank against each other.
 
 *JavaScript · React Native · Expo · Python · AWS Lambda · DynamoDB*
+<br clear="left">
+
+<img src="assets/stages.png" width="64" align="left">
+
+[**Steel Challenge Stages**](https://steelchallengestages.com/)
+
+[steelchallengestages.com](https://steelchallengestages.com/)
+
+Renders Steel Challenge stages from a first-person view and turns them into
+printable targets for at-home dry-fire practice. Scales each target to the
+chosen shooting box, eye level, and distance to the wall, then lays it out in a
+print view sized to match — so the printed targets can be hung on a wall to
+recreate the real stage at home.
+
+*TypeScript · React · Next.js · Tailwind CSS*
 <br clear="left">
 
 ## Contact
