@@ -37,6 +37,21 @@ recreate the real stage at home.
 *TypeScript · React · Next.js · Tailwind CSS*
 <br clear="left">
 
+<img src="assets/targets.png" width="64" align="left">
+
+[**Customizable Zeroing Targets**](https://gunzncoffee.com/targets/)
+
+[gunzncoffee.com/targets](https://gunzncoffee.com/targets/)
+
+Generates free printable zeroing targets. Takes a zero distance, an available
+shooting distance, caliber, and sight height over bore, then computes the
+ballistic trajectory to plot where shots should land for a correct zero and
+lays it out as a calibrated target printed at 100% scale — letting shooters
+confirm a zero from whatever distance their range offers.
+
+*JavaScript*
+<br clear="left">
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/davidasatrian/) ·
